@@ -2,7 +2,7 @@
 
 Market data and analytics for Hypixel SkyBlock.
 
-**Site:** https://skymarket-252.pages.dev
+**Site:** https://skymarket.dev
 
 ## What it does
 
