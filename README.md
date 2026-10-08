@@ -9,11 +9,18 @@ Market data and analytics for Hypixel SkyBlock.
 - **Bazaar** — live buy and sell prices, order books, spread, and price history
   with traded volume for every product.
 - **Auction House** — a live feed of new listings, lowest BIN per item, and each
-  item's price history and recent auctions (active, sold or expired).
+  item's price history and recent auctions (active, sold, expired or cancelled).
+- **Auction pages** — every auction has a page of its own that stays after it
+  sells or ends: price, times, outcome and the full item.
 - **Items** — every SkyBlock item with its real in-game icon.
 
-Market data and history are free for everyone. Flip recommendations are part
-of SkyMarket Premium.
+All of this is free and needs no account.
+
+## Planned
+
+- **Premium** — an optional tier that will add analytics, convenience and
+  insights built by SkyMarket on top of the data. It is not on sale yet, and it
+  will not put the market data above behind a paywall.
 
 ## Status
 
@@ -25,6 +32,10 @@ SkyMarket is in active development. It records its own history, which began on
 This is SkyMarket's public home: project information and public documentation.
 The website and backend source are not open source and are not in this
 repository.
+
+## Contact
+
+support@skymarket.dev
 
 ## Credits
 
